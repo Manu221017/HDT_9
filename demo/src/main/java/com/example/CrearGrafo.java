@@ -29,7 +29,6 @@ public class CrearGrafo {
     }
 
     public static void main(String[] args) {
-        Map<String, Map<String, Integer>> grafo = crearGrafo();
         System.out.println("Grafo creado con éxito.");
     }
 }
